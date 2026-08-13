@@ -41,5 +41,5 @@ stages:
       inputs:
         azureSubscription: 'azure-service-connection'
         appName: 'rudaina-cicd-webapp'
-        resourceGroupName:'cicd-demo-rg'
+        resourceGroupName: 'cicd-demo-rg'
         containers: '$(containerRegistry)/$(imageRepository):$(tag)'
