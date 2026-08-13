@@ -83,7 +83,7 @@ The pipeline is defined in `azure-pipelines.yml` and runs automatically on every
 
 ## 👩‍💻 Author
 
-Rudaina Hoorain — DevOps Internship, Coralpha
+Rudaina Hoorain — DevOps Intern, CodeAlpha
 TKR College of Engineering and Technology
 
 ## 📄 License
