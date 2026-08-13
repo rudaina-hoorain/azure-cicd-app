@@ -4,7 +4,7 @@ A simple Node.js web application demonstrating an automated CI/CD pipeline using
 
 ## 📌 Project Overview
 
-This project was built as part of a DevOps internship task. It demonstrates:
+This project demonstrates:
 - Building an automated CI/CD pipeline with **Azure Pipelines**
 - Storing container images in **Azure Container Registry (ACR)**
 - Automatically deploying to **Azure App Service** on every code push
